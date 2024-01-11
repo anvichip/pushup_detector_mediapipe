@@ -31,9 +31,6 @@ This project utilizes the MediaPipe Pose model and OpenCV to create a push-up co
 
 4. **Perform push-ups in front of your webcam, and the application will count them.**
 
-## Demo
-
-Include a GIF or link to a demo video showing the project in action.
 
 ## Configuration
 
