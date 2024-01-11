@@ -1,6 +1,3 @@
-Certainly! Here's the complete README file in Markdown format:
-
-```markdown
 # Push-Up Counter using MediaPipe and OpenCV
 
 This project utilizes the MediaPipe Pose model and OpenCV to create a push-up counter. It tracks the user's pose in real-time and counts push-ups based on the detected angles during the exercise.
@@ -54,13 +51,7 @@ Include a GIF or link to a demo video showing the project in action.
 - This project uses the [MediaPipe](https://github.com/google/mediapipe) library for pose detection.
 - OpenCV is used for webcam video capture and image processing.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
 [Your Name]
-```
-
-Replace `[Your Name]` with your actual name and make any necessary adjustments to suit your project. Save this text in a file named `README.md` in the root of your GitHub repository.
