@@ -47,8 +47,3 @@ This project utilizes the MediaPipe Pose model and OpenCV to create a push-up co
 
 - This project uses the [MediaPipe](https://github.com/google/mediapipe) library for pose detection.
 - OpenCV is used for webcam video capture and image processing.
-
-
-## Author
-
-[Your Name]
